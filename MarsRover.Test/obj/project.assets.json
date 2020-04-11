@@ -5875,11 +5875,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mehmet.ozgul\\Desktop\\HepsiBuradaCase\\MarsRover.Test\\MarsRover.Test.csproj",
+      "projectUniqueName": "C:\\Users\\mehmet.ozgul\\source\\repos\\MarsRoverProject\\MarsRover.Test\\MarsRover.Test.csproj",
       "projectName": "MarsRover.Test",
-      "projectPath": "C:\\Users\\mehmet.ozgul\\Desktop\\HepsiBuradaCase\\MarsRover.Test\\MarsRover.Test.csproj",
+      "projectPath": "C:\\Users\\mehmet.ozgul\\source\\repos\\MarsRoverProject\\MarsRover.Test\\MarsRover.Test.csproj",
       "packagesPath": "C:\\Users\\mehmet.ozgul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mehmet.ozgul\\Desktop\\HepsiBuradaCase\\MarsRover.Test\\obj\\",
+      "outputPath": "C:\\Users\\mehmet.ozgul\\source\\repos\\MarsRoverProject\\MarsRover.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5899,8 +5899,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\mehmet.ozgul\\Desktop\\HepsiBuradaCase\\MarsRover\\MarsRover.csproj": {
-              "projectPath": "C:\\Users\\mehmet.ozgul\\Desktop\\HepsiBuradaCase\\MarsRover\\MarsRover.csproj"
+            "C:\\Users\\mehmet.ozgul\\source\\repos\\MarsRoverProject\\MarsRover\\MarsRover.csproj": {
+              "projectPath": "C:\\Users\\mehmet.ozgul\\source\\repos\\MarsRoverProject\\MarsRover\\MarsRover.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mehmet.ozgul\\Desktop\\HepsiBuradaCase\\MarsRover\\MarsRover.csproj": {}
+    "C:\\Users\\mehmet.ozgul\\source\\repos\\MarsRoverProject\\MarsRover\\MarsRover.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mehmet.ozgul\\Desktop\\HepsiBuradaCase\\MarsRover\\MarsRover.csproj": {
+    "C:\\Users\\mehmet.ozgul\\source\\repos\\MarsRoverProject\\MarsRover\\MarsRover.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehmet.ozgul\\Desktop\\HepsiBuradaCase\\MarsRover\\MarsRover.csproj",
+        "projectUniqueName": "C:\\Users\\mehmet.ozgul\\source\\repos\\MarsRoverProject\\MarsRover\\MarsRover.csproj",
         "projectName": "MarsRover",
-        "projectPath": "C:\\Users\\mehmet.ozgul\\Desktop\\HepsiBuradaCase\\MarsRover\\MarsRover.csproj",
+        "projectPath": "C:\\Users\\mehmet.ozgul\\source\\repos\\MarsRoverProject\\MarsRover\\MarsRover.csproj",
         "packagesPath": "C:\\Users\\mehmet.ozgul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehmet.ozgul\\Desktop\\HepsiBuradaCase\\MarsRover\\obj\\",
+        "outputPath": "C:\\Users\\mehmet.ozgul\\source\\repos\\MarsRoverProject\\MarsRover\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
